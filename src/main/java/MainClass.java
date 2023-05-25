@@ -24,6 +24,7 @@ public class MainClass {
 
         System.out.print("Result: ");
         result.forEach(System.out::print);
+        System.out.println();
 
 
 
